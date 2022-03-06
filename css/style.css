@@ -1034,7 +1034,7 @@ hr{
     }
 }
 
-#project-grid{
+.project-grid{
     text-align: center;
     margin-bottom: 6rem;
     
@@ -1095,8 +1095,8 @@ hr{
     transition: transform 0.5s ease;
 }
 
-#real-estate-project{
-    background: rgba(0, 0, 0, 0.9) url("../images/real-estate.jpg");
+#codepen-project{
+    background: rgba(0, 0, 0, 0.9) url("../images/codepen.png");
     background-position: center;
     background-size: cover;
 }
@@ -1107,14 +1107,8 @@ hr{
     background-size: cover;
 }
 
-#coffee-shop-project{
-    background: rgba(0, 0, 0, 0.9) url("../images/coffee-shop.jpg");
-    background-position: center;
-    background-size: cover;
-}
-
-#snake-game-project{
-    background: rgba(0, 0, 0, 0.9) url("../images/snake-game.jpg");
+#real-estate-project{
+    background: rgba(0, 0, 0, 0.9) url("../images/real-estate.jpg");
     background-position: center;
     background-size: cover;
 }
@@ -1125,20 +1119,45 @@ hr{
     background-size: cover;
 }
 
+#snake-game-project{
+    background: rgba(0, 0, 0, 0.9) url("../images/snake-game.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#coffee-shop-project{
+    background: rgba(0, 0, 0, 0.9) url("../images/coffee-shop.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
 #registeration-project{
     background: rgba(0, 0, 0, 0.9) url("../images/register.jpg");
     background-position: center;
     background-size: cover;
 }
 
-#dashboard-project{
-    background: rgba(0, 0, 0, 0.9) url("../images/dashboard.png");
+#ui-design-heading{
+    text-align: left;
+    font-size: 2rem;
+    color: white;
+    font-family: "Poppins", sans-serif;
+}
+
+#music-dashboard-project{
+    background: rgba(0, 0, 0, 0.9) url("../images/Music-Dashboard.png");
     background-position: center;
     background-size: cover;
 }
 
-#codepen-project{
-    background: rgba(0, 0, 0, 0.9) url("../images/codepen.png");
+#movie-dashboard-project{
+    background: rgba(0, 0, 0, 0.9) url("../images/Movie-Dashboard.png");
+    background-position: center;
+    background-size: cover;
+}
+
+#smart-dashboard-project{
+    background: rgba(0, 0, 0, 0.9) url("../images/Smart-Dashboard.png");
     background-position: center;
     background-size: cover;
 }
