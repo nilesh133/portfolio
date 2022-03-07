@@ -846,6 +846,14 @@ hr{
     width: 75%;
 }
 
+#sass-bar{
+    width: 85%;
+}
+
+#tailwind-bar{
+    width: 85%;
+}
+
 #jquery-bar{
     width: 75%;
 }
@@ -1093,6 +1101,18 @@ hr{
     height: 100%;
     width: 100%;
     transition: transform 0.5s ease;
+}
+
+#googledocs-project{
+    background: rgba(0, 0, 0, 0.9) url("../images/Google-Docs.png");
+    background-position: center;
+    background-size: cover;
+}
+
+#googlekeep-project{
+    background: rgba(0, 0, 0, 0.9) url("../images/Google-Keep.png");
+    background-position: center;
+    background-size: cover;
 }
 
 #codepen-project{
