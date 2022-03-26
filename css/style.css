@@ -1103,6 +1103,12 @@ hr{
     transition: transform 0.5s ease;
 }
 
+#amazonprime-project{
+    background: rgba(0, 0, 0, 0.9) url("../images/amazon-prime.png");
+    background-position: center;
+    background-size: cover;
+}
+
 #googledocs-project{
     background: rgba(0, 0, 0, 0.9) url("../images/Google-Docs.png");
     background-position: center;
